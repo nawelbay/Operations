@@ -7,3 +7,4 @@ def divide(a, b):
 
 def supp(a, b):
     return a - b
+
